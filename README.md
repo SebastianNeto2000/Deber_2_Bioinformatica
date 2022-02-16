@@ -8,4 +8,4 @@ en el documento se puede ver con claridad el Mapa de Ciencia de su tema de inter
 la figura tiene etiquetas adecuadas en los ejes de la visualización.
 se tiene al menos tres controles de la versión (3 commit con mensajes adecuados sobre la versión)
 
-RESOLUCION EN EL JUPYTER NOTEBOOK <Kefir>
+RESOLUCION EN EL JUPYTER NOTEBOOK *Kefir*
